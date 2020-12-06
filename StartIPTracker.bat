@@ -1,0 +1,3 @@
+:G
+start .
+goto G
